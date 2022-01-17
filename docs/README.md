@@ -16,20 +16,14 @@
 因个人能力有限，笔记中可能还有**很多错误**的地方，还请大家能够多多指出交流，也欢迎各位小伙伴能够提交 **Pull Request** 请求进行完善。
 
 
-## PDF下载
 
-本仓库中整理的笔记同时提供 **PDF** 离线版本，请扫描下方公众号『**陌溪教你学编程**』后，回复关键字『**PDF**』，即可下载 **仓库最新 PDF 版本的笔记**。
-
-<p align=center>
-    <img src="./doc/images/qq//获取PDF.jpg" width="500" />
-</p>
 
 ## 在线阅读
 
 为了更方便小伙伴的复习和查询，把本仓库做成一个在线的文档
 
-- 在线文档：http://note.moguit.cn/
-- 备用地址：http://moxi159753.gitee.io/learningnotes/
+- 在线文档：https://kyokutor.github.io/Notes/#/
+
 
 ## 仓库地址
 
